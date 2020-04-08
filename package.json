@@ -1,0 +1,33 @@
+{
+  "name": "2020-summer-intern-sheet",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinyaigeek/2020-summer-intern-sheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinyaigeek/2020-summer-intern-sheet/issues"
+  },
+  "homepage": "https://github.com/Shinyaigeek/2020-summer-intern-sheet#readme",
+  "dependencies": {
+    "@types/react": "^16.9.32",
+    "next": "^9.3.4",
+    "now": "^17.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
