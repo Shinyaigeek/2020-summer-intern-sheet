@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Shinyaigeek/2020-summer-intern-sheet#readme",
   "dependencies": {
     "@types/react": "^16.9.32",
-    "next": "^9.3.4",
+    "next": "^11.1.0",
     "now": "^17.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
